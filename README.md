@@ -70,6 +70,6 @@ Note: (This Tools Are Free, So You No Need Permission To Use NIKI HACK-PRO Tools
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python Dump.py
 ```
 
- Note: (This Tools Are Free, So You No Need Permission To Use NIKI HACK-PRO Tools Enjoy)</br>
+ Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools Enjoy)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
  [CODED BY Mr. NIKI]
