@@ -12,12 +12,6 @@
 
 <p align="center">
      NEW FILE CLONING, PUBLIC AND FLOWERS CRACKING
-</p>
-
-
-
-<p align="center">
-              Mr.NIKI
 
  
 ## <b>installation 1st Dumping</b>
