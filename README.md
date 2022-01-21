@@ -37,6 +37,7 @@ Note: (This Tools Are Free, So You No Need Permission To Use NIKI HACK-PRO Tools
 # Single Command 
 
 ```
+
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ;pip2 install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python Dump.py
 ```
 
@@ -63,6 +64,7 @@ Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools En
 # Single Command 
 
 ```
+
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ;pip2 install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python HACK-PRO
 ```
 
