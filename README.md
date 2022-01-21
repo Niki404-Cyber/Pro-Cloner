@@ -19,34 +19,8 @@
 <p align="center">
               Mr.NIKI
 
-
-## <b>installation 1st Clonnig</b>
-
-```
-cd
-rm -rf HACK-PRO
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
-$ pip2 install bs4
-$ pkg install git
-$ git clone https://github.com/Niki404-Cyber/HACK-PRO.git
-$ cd HACK-PRO
-$ python2 HACK-PRO
-
-Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools Enjoy)
-```
-
-# Single Command 
-
-```
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ;pip2 install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python HACK-PRO
-```
  
-## <b>installation 2st Dump</b>
+## <b>installation 1st Dumping</b>
 
 ```
 cd
@@ -70,6 +44,32 @@ Note: (This Tools Are Free, So You No Need Permission To Use NIKI HACK-PRO Tools
 
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ;pip2 install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python Dump.py
+```
+
+## <b>installation 2st Clonnig</b>
+
+```
+cd
+rm -rf HACK-PRO
+$ pkg update
+$ pkg upgrade
+$ pkg install python
+$ pkg install python2
+$ pip2 install requests
+$ pip2 install mechanize
+$ pip2 install bs4
+$ pkg install git
+$ git clone https://github.com/Niki404-Cyber/HACK-PRO.git
+$ cd HACK-PRO
+$ python2 HACK-PRO
+
+Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools Enjoy)
+```
+
+# Single Command 
+
+```
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize ;pip2 install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python HACK-PRO
 ```
 
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools Enjoy)</br>
