@@ -7,8 +7,8 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from repo import menu
+    from Fuck import menu
     menu()
 elif bit == '32bit':
-    from repo import menu
+    from Fuck import menu
     menu()
