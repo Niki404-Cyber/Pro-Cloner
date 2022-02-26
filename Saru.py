@@ -7,7 +7,7 @@ except:
 import requests
 bit = platform.architecture()[0]
 if bit == '64bit':
-    from librie import bnsbuy
+    from libre import bnsbuy
     bnsbuy()
 elif bit == '32bit':
     print "Opps Your Device Not Supported"
