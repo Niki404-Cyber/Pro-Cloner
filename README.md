@@ -8,7 +8,7 @@
 <h2 align="center"> LOGIN WITH ADMIN APPROVAL PAID TOOLS</h2>
 
 
-<h3> align="center"> NEW FILE CLONING PRO TOOLS</h3>
+<h3 align="center"> NEW FILE CLONING PRO TOOLS</h3>
 
  
 ## <b>Installation</b>
