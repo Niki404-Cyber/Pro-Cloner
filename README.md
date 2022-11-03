@@ -15,7 +15,7 @@
 
 ```
 cd
-rm -rf HACK-PRO
+rm -rf PRO-CLONNIG
 $ pkg update
 $ pkg upgrade
 $ pkg install python
@@ -24,20 +24,19 @@ $ pip install requests
 $ pip install mechanize
 $ pip install bs4
 $ pkg install git
-$ git clone https://github.com/Niki404-Cyber/HACK-PRO.git
-$ cd HACK-PRO
-$ python HACKPRO.py
+$ git clone https://github.com/Niki404-Cyber/PRO-CLONNIG.git
+$ cd PRO-CLONNIG
+$ python Pro.py
 
-Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools Enjoy)
+Note: (This Tools Are Paid, So You Need Permission To Use NIKI PRO-CLONNIG Tools Enjoy)
 ```
 
 # Single Command 
 
 ```
 
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/HACK-PRO.git ; cd HACK-PRO; python HACKPRO.py
+pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/PRO-CLONNIG.git ; cd PRO-CLONNIG; python PRO.py
 ```
+ Note: (This Tools Are Paid, So You Need Permission To Use NIKI PRO-CLONNIG Tools Enjoy)</br>
 
- Note: (This Tools Are Paid, So You Need Permission To Use NIKI HACK-PRO Tools Enjoy)</br>
- [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICERS)</br>
  [CODED BY Mr. NIKI]
