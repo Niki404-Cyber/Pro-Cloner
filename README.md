@@ -14,8 +14,8 @@
 ## <b>Installation</b>
 
 ```
-cd
-rm -rf Pro-Cloner
+$ cd
+$ rm -rf Pro-Cloner
 $ pkg update
 $ pkg upgrade
 $ pkg install python
