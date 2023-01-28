@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("x").bnsbuy()
+    __import__("pron").menu()
 except Exception as e:
     exit(str(e))
