@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("nokian").menu()
+    __import__("luuu").menu()
 except Exception as e:
     exit(str(e))
