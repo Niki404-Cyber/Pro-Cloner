@@ -1,5 +1,5 @@
 import os, sys
 try:
-    __import__("pro").menu()
+    __import__("mbasic").menu()
 except Exception as e:
     exit(str(e))
