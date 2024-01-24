@@ -31,10 +31,12 @@ python Pro.py
 Note: (This Tools Are Paid, So You Need Permission To Use NIKI Pro-Cloner Tools Enjoy)
 ```
 
-# Single Command 
+# Short Command 
 
 ```
-
-pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip install requests ; pip install mechanize ;pip install bs4; pkg install git ; git clone https://github.com/Niki404-Cyber/Pro-Cloner.git ; cd Pro-Cloner; python Pro.py
+cd && rm -rf Pro-Cloner
+git clone --depth=1 https://github.com/Niki404-Cyber/Pro-Cloner.git
+cd Pro-Cloner
+python Pro.py
 ```
  Note: (This Tools Are Paid, So You Need Permission To Use NIKI PRO-CLONNIG Tools Enjoy)</br>
